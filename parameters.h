@@ -1,0 +1,10 @@
+#define c 1.0
+#define m 7800
+#define M 10.0
+#define MOI 100.0
+#define L 1.0
+#define x_f 0.5
+#define E 100000.0
+#define A 3.14
+#define G 100000.0
+#define J 10000.0
